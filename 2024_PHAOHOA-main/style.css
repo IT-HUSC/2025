@@ -19,7 +19,10 @@
     line-height: 1.25;
     letter-spacing: 0.06em;
   }
-  
+
+audio{
+    display: none;
+}
   .hide {
     opacity: 0;
     visibility: hidden;
